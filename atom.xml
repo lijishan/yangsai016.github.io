@@ -4,7 +4,7 @@
   <title><![CDATA[好农场-帮助中心]]></title>
   <link href="http://blog.realfarm.cn/atom.xml" rel="self"/>
   <link href="http://blog.realfarm.cn/"/>
-  <updated>2016-01-21T14:06:48+08:00</updated>
+  <updated>2016-01-21T15:48:39+08:00</updated>
   <id>http://blog.realfarm.cn/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -14,10 +14,383 @@
 
   
   <entry>
-    <title type="html"><![CDATA[【新手教程】宅配会员配送流程]]></title>
-    <link href="http://blog.realfarm.cn/14533490929267.html"/>
-    <updated>2016-01-21T12:04:52+08:00</updated>
-    <id>http://blog.realfarm.cn/14533490929267.html</id>
+    <title type="html"><![CDATA[如何申请提现]]></title>
+    <link href="http://blog.realfarm.cn/14533627963457.html"/>
+    <updated>2016-01-21T15:53:16+08:00</updated>
+    <id>http://blog.realfarm.cn/14533627963457.html</id>
+    <content type="html"><![CDATA[
+<h4 id="toc_0">一、操作路径</h4>
+
+<p>好农场管理后台-农场-收入/提现</p>
+
+<h4 id="toc_1">二、操作流程</h4>
+
+<ol>
+<li>在后台设置提现银行卡</li>
+<li>提交提现申请，等待提现处理</li>
+</ol>
+
+<h4 id="toc_2">三、流程说明</h4>
+
+<ol>
+<li>设置提现银行卡
+点击账户余额旁边的 &quot;提现“ 按钮，如果未设置过银行卡号，则进入设置提现账号。</li>
+</ol>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/42842406.jpg-w619" alt="提现1"/></p>
+
+<ol>
+<li>输入提现金额，点击”提交”就可以了，目前提现是T+2天处理，5个工作日内到账，节假日顺延。</li>
+</ol>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/56425689.jpg-w619" alt="提现2"/></p>
+
+<ol>
+<li>当提现状态为“提现成功”时，即表示提现金额已经到账。</li>
+</ol>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/61185533.jpg-w619" alt="提现3"/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[如何设置零售功能]]></title>
+    <link href="http://blog.realfarm.cn/14533627843778.html"/>
+    <updated>2016-01-21T15:53:04+08:00</updated>
+    <id>http://blog.realfarm.cn/14533627843778.html</id>
+    <content type="html"><![CDATA[
+<h4 id="toc_0">一、操作路径</h4>
+
+<p>好农场管理后台-农场-零售设置</p>
+
+<h4 id="toc_1">二、功能介绍</h4>
+
+<p>起送价：消费者到达设置的金额后才能下单<br/>
+免运费金额：消费者在农场购买的商品达到该金额后可以免运费</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/92130957.jpg-w619" alt="零售"/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[如何开启会员宅配功能]]></title>
+    <link href="http://blog.realfarm.cn/14533627736306.html"/>
+    <updated>2016-01-21T15:52:53+08:00</updated>
+    <id>http://blog.realfarm.cn/14533627736306.html</id>
+    <content type="html"><![CDATA[
+<h4 id="toc_0">一、操作路径</h4>
+
+<p>好农场管理后台-农场-会员模块</p>
+
+<h4 id="toc_1">二、操作流程</h4>
+
+<ol>
+<li>开启会员模块</li>
+<li>设置会员自定义功能</li>
+</ol>
+
+<h4 id="toc_2">三、流程介绍</h4>
+
+<h5 id="toc_3">1.开启会员模块</h5>
+
+<p>在会员模块的右边点击“开启”按钮即可</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/81494564.jpg-w619" alt="开启会员模块"/></p>
+
+<h5 id="toc_4">2.设置会员自定义功能</h5>
+
+<ul>
+<li>会员等级：可以根据会员累积消费情况给会员设置一个等级标签；</li>
+<li>账户关联功能：即主账户、子账户功能，适用于多个会员在同一个账户中消费。详情请查阅：<a href="http://www.realfarm.cn">账户关联功能说明</a></li>
+</ul>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/46912397.jpg-w619" alt="设置会员自定义功能"/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[如何设置农场资料]]></title>
+    <link href="http://blog.realfarm.cn/14533627615952.html"/>
+    <updated>2016-01-21T15:52:41+08:00</updated>
+    <id>http://blog.realfarm.cn/14533627615952.html</id>
+    <content type="html"><![CDATA[
+<h4 id="toc_0">一、功能路径</h4>
+
+<p>好农场管理后台-农场-农场资料</p>
+
+<h4 id="toc_1">二、操作流程</h4>
+
+<ul>
+<li>
+<a href="#toc_0">一、功能路径</a>
+</li>
+<li>
+<a href="#toc_1">二、操作流程</a>
+</li>
+<li>
+<a href="#toc_2">三、流程介绍</a>
+<ul>
+<li>
+<a href="#toc_3">1. 设置农场基本资料</a>
+</li>
+<li>
+<a href="#toc_4">2.添加农场详细介绍</a>
+</li>
+<li>
+<a href="#toc_5">3.上传农场相册</a>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<ol>
+<li>设置农场基本资料</li>
+<li>添加农场详细介绍</li>
+<li>上传农场相册</li>
+</ol>
+
+<h4 id="toc_2">三、流程介绍</h4>
+
+<h5 id="toc_3">1. 设置农场基本资料</h5>
+
+<ul>
+<li>农场名称、登录账号、农场地址需要通过联系好农场客服人员修改</li>
+<li>主营产品输入框中不能超过15个字</li>
+<li>农场logo和背景图不能超过1M</li>
+</ul>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/31852340.jpg-w619" alt="设置农场基本资料"/></p>
+
+<h5 id="toc_4">2.添加农场详细介绍</h5>
+
+<p>从“基本资料”切换到“农场介绍”标签后进行编辑</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/45796067.jpg-w619" alt="添加农场详细介绍"/></p>
+
+<h5 id="toc_5">3.上传农场相册</h5>
+
+<p>从“农场介绍”切换到”农场相册标签进行编辑</p>
+
+<ul>
+<li>点击上传新图片即可上传</li>
+<li>最多上传20张图片，支付jpg,jpeg格式</li>
+</ul>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/18545283.jpg-w619" alt="上传农场相册"/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[如何新增会员]]></title>
+    <link href="http://blog.realfarm.cn/14533626873220.html"/>
+    <updated>2016-01-21T15:51:27+08:00</updated>
+    <id>http://blog.realfarm.cn/14533626873220.html</id>
+    <content type="html"><![CDATA[
+<p><em>新增会员有两种途径：一种是新增单个会员，一种是批量导入会员。</em></p>
+
+<h4 id="toc_0">操作路径</h4>
+
+<p>好农场管理后台-会员-配送会员</p>
+
+<h4 id="toc_1">一、新增单个会员</h4>
+
+<ol>
+<li><p>在左上角点“新增会员”按钮</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/54005800.jpg-w619" alt="新增会员"/></p></li>
+<li><p>添加会员基本信息</p>
+
+<blockquote>
+<p>可透支额度（元）：指套餐余额消费完后还可以透支消费的金额</p>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/66904503.jpg-w619" alt=""/></p></li>
+<li><p>设置套餐信息</p>
+
+<blockquote>
+<p>单次配送要求：随套餐的要求而变化<br/>
+配送日：一个会员至少对应一个配送日和一条配送线路<br/>
+套餐附加商品：指每次点菜前，如果该附加商品有库存，系统会自动把该商品分配到会员的购物车里。</p>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/86894011.jpg-w619" alt=""/></p></li>
+</ol>
+
+<h4 id="toc_2">二、批量导入会员</h4>
+
+<p>在“配送会员”页左上角点“导入”，按导入指引和模板提醒导入即可</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/93392312.jpg-w619" alt="导入会员"/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[新增会员套餐]]></title>
+    <link href="http://blog.realfarm.cn/14533626779826.html"/>
+    <updated>2016-01-21T15:51:17+08:00</updated>
+    <id>http://blog.realfarm.cn/14533626779826.html</id>
+    <content type="html"><![CDATA[
+<p><em>会员套餐类似于会员与农场制订的一个预付款协议，会员向农场提前预支金额，农场根据该协议为会员提供不同的服务（例如不同的商品价格）</em></p>
+
+<h4 id="toc_0">一、操作路径</h4>
+
+<p>好农场管理后台-会员-会员套餐</p>
+
+<h4 id="toc_1">二、操作流程</h4>
+
+<p>1.设置套餐基本信息<br/>
+2.添加套餐详情</p>
+
+<h4 id="toc_2">三、流程介绍</h4>
+
+<h5 id="toc_3">1.设置套餐基本信息</h5>
+
+<p>可以根据农场的实际业务选择会员每次配送时的单次配送要求，会员通过app点菜时如果未达到该要求，则会给出相应的提示。</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/84250657.jpg" alt="设置套餐基本信息"/></p>
+
+<h5 id="toc_4">2.添加套餐详情</h5>
+
+<p>点击“下一步”，添加套餐详细说明</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/15259533.jpg" alt="添加套餐详情"/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[新增会员配送日]]></title>
+    <link href="http://blog.realfarm.cn/14533626642913.html"/>
+    <updated>2016-01-21T15:51:04+08:00</updated>
+    <id>http://blog.realfarm.cn/14533626642913.html</id>
+    <content type="html"><![CDATA[
+<p><em>“会员配送日”是指农场为会员设置的固定配送日，例如农场每周二、周五为会员配送，则会员配送日为周二和周五。</em></p>
+
+<h4 id="toc_0">一、操作路径</h4>
+
+<p>农场管理后台-会员-会员配送日</p>
+
+<h4 id="toc_1">二、操作流程</h4>
+
+<ol>
+<li>新增配送日</li>
+<li>新增配送线路</li>
+</ol>
+
+<h4 id="toc_2">三、流程介绍</h4>
+
+<h5 id="toc_3">1.新增配送日</h5>
+
+<p>农场至少应该有一个配送日，否则无法添加会员和进行配送；</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/68654615.jpg-w619" alt="会员配送日"/></p>
+
+<blockquote>
+<ul>
+<li>配送日可以从星期一至星期日之间选择，不能重复添加；</li>
+<li>预计点菜开始时间：指农场预计在配送日的前几天几点开放点菜（此处的时间仅供会员在app上参考，真正开始点菜需要农场执行“开始点菜”操作）</li>
+<li>预计点菜结束时间：同上</li>
+</ul>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/78532404.jpg-w619" alt="新增配送日"/></p>
+
+<h5 id="toc_4">2.新增配送线路</h5>
+
+<p>配送线路是指该配送日一共分几条线配送，每条线路分别采用什么配送方式配送，一个配送日至少需要添加一条线路。</p>
+
+<p><font color=#0099ff>配送方式有以下三种可选：</font></p>
+
+<blockquote>
+<ul>
+<li>自有物流：即农场自已有司机负责配送，首次添加时需“新增司机”</li>
+<li>好农场合作物流：与好农场后台进行了物流接口对接的物流公司</li>
+<li>第三方物流：即申通、圆通等快递公司，一条线路只能对应一个快递公司</li>
+</ul>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/36437149.jpg-w415" alt=""/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[好农场入门]]></title>
+    <link href="http://blog.realfarm.cn/14533608116972.html"/>
+    <updated>2016-01-21T15:20:11+08:00</updated>
+    <id>http://blog.realfarm.cn/14533608116972.html</id>
+    <content type="html"><![CDATA[
+<h4 id="toc_0">一、入驻好农场须知</h4>
+
+<ol>
+<li><p>什么是好农场，提供了什么功能？要收费吗？怎么入驻呢？<br/>
+请点击阅读&gt;&gt;【好农场入驻须知】&gt;&gt;【好农场支付方式及结算规则】</p></li>
+<li><p>会员宅配管理系统支持哪些会员套餐类型？我的农场可以使用吗？<br/>
+请点击阅读&gt;&gt;【好农场会员宅配系统使用须知】</p></li>
+<li><p>零售功能有什么用？<br/>
+请点击阅读&gt;&gt;【好农场零售功能使用须知】</p></li>
+</ol>
+
+<h4 id="toc_1">二、设置农场资料及业务</h4>
+
+<ol>
+<li><p>农场已经开通后台了，如何设置我的农场资料?<br/>
+请点击阅读&gt;&gt;【设置农场资料】</p></li>
+<li><p>如何根据我的农场业务来选择是否开通会员宅配功能？<br/>
+请点击阅读&gt;&gt;【开启会员宅配管理功能】</p></li>
+<li><p>如何设置零售功能？<br/>
+请点击阅读&gt;&gt;【零售功能设置】</p></li>
+</ol>
+
+<h4 id="toc_2">三、农场会员宅配</h4>
+
+<ol>
+<li><p>首次使用会员配送的流程是什么样的？如何开始一次配送？<br/>
+请点击阅读&gt;&gt;【会员配送流程】</p></li>
+<li><p>如何设置会员套餐及配送日？如何新增会员？<br/>
+请点击阅读&gt;&gt;【会员套餐设置】&gt;&gt;【会员配送日设置】</p></li>
+<li><p>如何新增会员商品，设置会员可选菜单？ 可选蔬菜和附加商品有什么区别？<br/>
+请点击阅读&gt;&gt;【新增商品】&gt;&gt;【设置会员商品】</p></li>
+<li><p>如何让会员开始点菜？如何开始配送？<br/>
+请点击阅读&gt;&gt;【开始配送计划】&gt;&gt;【会员订单管理】</p></li>
+<li><p>如何打印会员销售单及相关单据？<br/>
+请点击阅读&gt;&gt;【会员单据打印】</p></li>
+</ol>
+
+<h4 id="toc_3">四、零售交易</h4>
+
+<ol>
+<li><p>如何发布零售商品？怎么设置运费？<br/>
+请点击阅读&gt;&gt;【新增商品】&gt;&gt;【设置零售商品】</p></li>
+<li><p>如何管理零售订单？订单怎么发货？<br/>
+请点击阅读&gt;&gt;【零售订单管理】</p></li>
+<li><p>消费者要求退款怎么处理？<br/>
+请点击阅读&gt;&gt;【零售订单退款处理】</p></li>
+</ol>
+
+<h4 id="toc_4">五、农场收入、统计</h4>
+
+<ol>
+<li><p>会员充值和零售订单的钱我在哪里可以看到？怎么取出来？<br/>
+请点击阅读&gt;&gt;【农场收入/提现】</p></li>
+<li><p>怎么统计会员配送的情况或零售销售情况？<br/>
+请点击阅读&gt;&gt;【农场统计功能】</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[【教程】会员配送流程]]></title>
+    <link href="http://blog.realfarm.cn/14533609336427.html"/>
+    <updated>2016-01-21T15:22:13+08:00</updated>
+    <id>http://blog.realfarm.cn/14533609336427.html</id>
     <content type="html"><![CDATA[
 <p><em>如果你是第一次使用我们的系统，不知道该如何开始操作，那么你只需要按照下面的流程一步一步操作，就可以完成一次会员配送了。</em></p>
 
@@ -96,110 +469,95 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[【农场】如何开启会员宅配功能]]></title>
-    <link href="http://blog.realfarm.cn/14533488796406.html"/>
-    <updated>2016-01-21T12:01:19+08:00</updated>
-    <id>http://blog.realfarm.cn/14533488796406.html</id>
+    <title type="html"><![CDATA[好农场入驻需知]]></title>
+    <link href="http://blog.realfarm.cn/14533452245479.html"/>
+    <updated>2016-01-21T11:00:24+08:00</updated>
+    <id>http://blog.realfarm.cn/14533452245479.html</id>
     <content type="html"><![CDATA[
-<h4 id="toc_0">一、操作路径</h4>
+<h5 id="toc_0">Q：好农场是做什么的？</h5>
 
-<p>好农场管理后台-农场-会员模块</p>
+<p>A：好农场是一套为会员宅配制农场（包括CSA农场）打造的<strong>会员宅配管理系统</strong>，同时也是一个<strong>生态农产品垂直电商平台</strong>。农场可以根据自己的业务范围选择使用好农场来管理会员或在平台上销售农产品；好农场提供网页版的农场管理后台供农场管理会员或零售订单，提供好农场app供会员点菜、充值或消费者购买商品。<br/><br/>
+<br></p>
 
-<h4 id="toc_1">二、操作流程</h4>
+<h5 id="toc_1">Q：好农场会员宅配管理系统提供了哪些功能？</h5>
+
+<p>A：好农场会员宅配管理系统中，提供了会员套餐设定、停配送管理、会员充值、会员订单处理、销售单据打印及会员相关统计等功能。详细介绍请查看：会员宅配管理系统使用须知<br/><br/>
+<br></p>
+
+<h5 id="toc_2">Q：好农场目前收费吗？</h5>
+
+<p>A：好农场目前不收取任何费用，在支付时还给予手续费补贴，未来可能会有按交易抽成的收费计划。手续费补贴详情查看：好农场支付方式及结算规则<br/>
+<br></p>
+
+<h5 id="toc_3">Q：什么样的农场（商家）可以入驻好农场电商平台？</h5>
+
+<p>A：请查阅：好农场零售功能使用须知<br/>
+<br></p>
+
+<h5 id="toc_4">Q：好农场的账户体系是什么样的？</h5>
+
+<p>A：一个手机号对应一个农场，目前农场后台只支持一个管理员。<br/>
+<br></p>
+
+<h5 id="toc_5">Q：好农场的入驻协议是什么样的？</h5>
+
+<p>A：请查阅：好农场商户入驻协议<br/>
+<br></p>
+
+<h5 id="toc_6">Q：怎么入驻好农场？</h5>
+
+<p>A：请联系好农场客服人员：010-84177966；客服微信：hnc_2015   </p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[好农场支付方式及结算规则]]></title>
+    <link href="http://blog.realfarm.cn/14533466770692.html"/>
+    <updated>2016-01-21T11:24:37+08:00</updated>
+    <id>http://blog.realfarm.cn/14533466770692.html</id>
+    <content type="html"><![CDATA[
+<h4 id="toc_0">一、支付方式</h4>
+
+<p>好农场目前支持以下两种在线支付方式：</p>
 
 <ol>
-<li>开启会员模块</li>
-<li>设置会员自定义功能</li>
+<li>微信支付</li>
+<li><p>支付宝支付</p>
+
+<p>农场会员充值或消费者购买商品时，可以选择以上方式向农场支付，支付金额统一进入好农场结算账户，农场通过管理后台发起提现申请与好农场结算款项。好农场将给农场补贴支付时产生的手续费用0.6%以及提现时的手续费用。</p>
+
+<blockquote>
+<p>说明：目前微信支付和支付宝支付的商户结算费率均为 0.6%<br/>
+点击查看： <a href="http://kf.qq.com/faq/140225MveaUz1504092YFjeM.html">微信支付结算费率</a> ，  <a href="https://b.alipay.com/order/productDetail.htm?productId=2015110218010538&amp;tabId=3#ps-tabinfo-hash">支付宝支付结算费率</a></p>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/93905717.jpg-w415" alt=""/></p></li>
 </ol>
 
-<h4 id="toc_2">三、流程介绍</h4>
+<p><em>（注：农场会员宅配系统中的会员订单均只能使用会员的储值余额支付，余额不足时需进行充值，与上述的支付方式为不同类型）</em><br/>
+<br></p>
 
-<h5 id="toc_3">1.开启会员模块</h5>
+<h4 id="toc_1">二、会员充值或买家下单后，资金如何结算？如何提现？</h4>
 
-<p>在会员模块的右边点击“开启”按钮即可</p>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/81494564.jpg-w619" alt="开启会员模块"/></p>
-
-<h5 id="toc_4">2.设置会员自定义功能</h5>
+<ol>
+<li>会员充值成功后，在“农场”——“收入/提现”里会产生一条充值记录，充值的金额将实时进入农场的账户余额中，农场可以随时申请提现。</li>
+<li><p>买家购买零售商品并支付后，以下<strong>两种情况满足任意一种</strong>结算金额可以入账提现：</p>
 
 <ul>
-<li>会员等级：可以根据会员累积消费情况给会员设置一个等级标签；</li>
-<li>账户关联功能：即主账户、子账户功能，适用于多个会员在同一个账户中消费。详情请查阅：<a href="http://www.realfarm.cn">账户关联功能说明</a></li>
-</ul>
+<li><p>农场在订单发货T+7天后交易金额将结算入账可提现（从发货当天开始计算，7天结算精确到天）</p>
 
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/46912397.jpg-w619" alt="设置会员自定义功能"/></p>
+<blockquote>
+<p>例：交易订单在7月17号发货，则7月24号交易金额结算入账。</p>
+</blockquote></li>
+<li><p>农场在订单发货后，买家在好农场app上进行了“确认收货”操作，交易金额将结算入账可提现。</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[好农场零售功能使用须知]]></title>
-    <link href="http://blog.realfarm.cn/14533487732166.html"/>
-    <updated>2016-01-21T11:59:33+08:00</updated>
-    <id>http://blog.realfarm.cn/14533487732166.html</id>
-    <content type="html"><![CDATA[
-<h5 id="toc_0">Q：好农场零售功能的定位是什么样的？目标消费群体是哪些？</h5>
-
-<p>A：好农场零售功能的定位是一个以本地农场为主的生态农产品电商平台，软件根据消费者所在位置自动向消费者推荐周边的农场和农产品。目标消费群体是城市里对食品安全有需求的人群（如孕妇、有老人或小孩的家庭、年轻白领等）</p>
-
-<p><br></p>
-
-<h5 id="toc_1">Q：好农场零售平台农场入驻的标准或要求是什么？</h5>
-
-<p>A：主要有以下几点要求：</p>
-
-<ol>
-<li>愿意公开并承诺农场的生产方式，例如种养植标准、加工标准；</li>
-<li>接受好农场工作人员或消费者随时到农场参观考察，对生产进行监督；</li>
-<li>可以独立发货、并能够保证向消费者提供有品质保障的农产品；</li>
+<blockquote>
+<p>例：交易订单在7月17号发货，7月20号买家确认收货，则交易金额结算入帐。</p>
+</blockquote></li>
+</ul></li>
+<li><p>提现前农场需添加结算账户，具体查看：如何进行提现操作？ ；提现周期为T+2个工作日，具体到账时间以银行的处理时间为准。</p></li>
 </ol>
-
-<p><br></p>
-
-<h5 id="toc_2">Q：好农场电商平台和一般的电商有什么区别？流量从哪里来？</h5>
-
-<p>A：好农场电商平台是一个只做生态农产品的平台，旨在帮助用心做农业的农人获得合理的回报。平台上的每一个农产品都会有对应的生产者及生产承诺，好农场会根据农场做出的承诺随机抽检，消费者也可以对违反承诺的商品进行举报。好农场平台的流量来自于线下的口碑传播及我们在农夫市集及其它场所做的宣传和推广活动。</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[【农场】如何申请提现]]></title>
-    <link href="http://blog.realfarm.cn/14533482217868.html"/>
-    <updated>2016-01-21T11:50:21+08:00</updated>
-    <id>http://blog.realfarm.cn/14533482217868.html</id>
-    <content type="html"><![CDATA[
-<h4 id="toc_0">一、操作路径</h4>
-
-<p>好农场管理后台-农场-收入/提现</p>
-
-<h4 id="toc_1">二、操作流程</h4>
-
-<ol>
-<li>在后台设置提现银行卡</li>
-<li>提交提现申请，等待提现处理</li>
-</ol>
-
-<h4 id="toc_2">三、流程说明</h4>
-
-<ol>
-<li>设置提现银行卡
-点击账户余额旁边的 &quot;提现“ 按钮，如果未设置过银行卡号，则进入设置提现账号。</li>
-</ol>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/42842406.jpg-w619" alt="提现1"/></p>
-
-<ol>
-<li>输入提现金额，点击”提交”就可以了，目前提现是T+2天处理，5个工作日内到账，节假日顺延。</li>
-</ol>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/56425689.jpg-w619" alt="提现2"/></p>
-
-<ol>
-<li>当提现状态为“提现成功”时，即表示提现金额已经到账。</li>
-</ol>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/61185533.jpg-w619" alt="提现3"/></p>
 
 ]]></content>
   </entry>
@@ -263,308 +621,32 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[【农场】如何设置零售功能]]></title>
-    <link href="http://blog.realfarm.cn/14533477093632.html"/>
-    <updated>2016-01-21T11:41:49+08:00</updated>
-    <id>http://blog.realfarm.cn/14533477093632.html</id>
+    <title type="html"><![CDATA[好农场零售功能使用须知]]></title>
+    <link href="http://blog.realfarm.cn/14533487732166.html"/>
+    <updated>2016-01-21T11:59:33+08:00</updated>
+    <id>http://blog.realfarm.cn/14533487732166.html</id>
     <content type="html"><![CDATA[
-<h4 id="toc_0">一、操作路径</h4>
+<h5 id="toc_0">Q：好农场零售功能的定位是什么样的？目标消费群体是哪些？</h5>
 
-<p>好农场管理后台-农场-零售设置</p>
+<p>A：好农场零售功能的定位是一个以本地农场为主的生态农产品电商平台，软件根据消费者所在位置自动向消费者推荐周边的农场和农产品。目标消费群体是城市里对食品安全有需求的人群（如孕妇、有老人或小孩的家庭、年轻白领等）</p>
 
-<h4 id="toc_1">二、功能介绍</h4>
+<p><br></p>
 
-<p>起送价：消费者到达设置的金额后才能下单<br/>
-免运费金额：消费者在农场购买的商品达到该金额后可以免运费</p>
+<h5 id="toc_1">Q：好农场零售平台农场入驻的标准或要求是什么？</h5>
 
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/92130957.jpg-w619" alt="零售"/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[好农场支付方式及结算规则]]></title>
-    <link href="http://blog.realfarm.cn/14533466770692.html"/>
-    <updated>2016-01-21T11:24:37+08:00</updated>
-    <id>http://blog.realfarm.cn/14533466770692.html</id>
-    <content type="html"><![CDATA[
-<h4 id="toc_0">一、支付方式</h4>
-
-<p>好农场目前支持以下两种在线支付方式：</p>
+<p>A：主要有以下几点要求：</p>
 
 <ol>
-<li>微信支付</li>
-<li><p>支付宝支付</p>
-
-<p>农场会员充值或消费者购买商品时，可以选择以上方式向农场支付，支付金额统一进入好农场结算账户，农场通过管理后台发起提现申请与好农场结算款项。好农场将给农场补贴支付时产生的手续费用0.6%以及提现时的手续费用。</p>
-
-<p>说明：目前微信支付和支付宝支付的商户结算费率均为 0.6%<br/>
-点击查看： <a href="http://kf.qq.com/faq/140225MveaUz1504092YFjeM.html">微信支付结算费率</a> ，  <a href="https://b.alipay.com/order/productDetail.htm?productId=2015110218010538&amp;tabId=3#ps-tabinfo-hash">支付宝支付结算费率</a></p>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/93905717.jpg-w415" alt=""/></p></li>
+<li>愿意公开并承诺农场的生产方式，例如种养植标准、加工标准；</li>
+<li>接受好农场工作人员或消费者随时到农场参观考察，对生产进行监督；</li>
+<li>可以独立发货、并能够保证向消费者提供有品质保障的农产品；</li>
 </ol>
 
-<p><em>（注：农场会员宅配系统中的会员订单均只能使用会员的储值余额支付，余额不足时需进行充值，与上述的支付方式为不同类型）</em><br/>
-<br></p>
+<p><br></p>
 
-<h4 id="toc_1">二、会员充值或买家下单后，资金如何结算？如何提现？</h4>
+<h5 id="toc_2">Q：好农场电商平台和一般的电商有什么区别？流量从哪里来？</h5>
 
-<ol>
-<li>会员充值成功后，在“农场”——“收入/提现”里会产生一条充值记录，充值的金额将实时进入农场的账户余额中，农场可以随时申请提现。</li>
-<li><p>买家购买零售商品并支付后，以下<strong>两种情况满足任何一种</strong>结算金额可以入账提现：</p>
-
-<ul>
-<li><p>农场在订单发货T+7天后交易金额将结算入账可提现（从发货当天开始计算，7天结算精确到天）<br/>
-    <code>例：交易订单在7月17号发货，则7月24号交易金额结算入账。</code></p></li>
-<li><p>农场在订单发货后，买家在好农场app上进行了“确认收货”操作，交易金额将结算入账可提现。<br/>
-<code>例：交易订单在7月17号发货，7月20号买家确认收货，则交易金额结算入帐。</code></p></li>
-</ul></li>
-<li><p>提现前农场需添加结算账户，具体查看：如何进行提现操作？ ；提现周期为T+2个工作日，具体到账时间以银行的处理时间为准。</p></li>
-</ol>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[好农场入驻需知]]></title>
-    <link href="http://blog.realfarm.cn/14533452245479.html"/>
-    <updated>2016-01-21T11:00:24+08:00</updated>
-    <id>http://blog.realfarm.cn/14533452245479.html</id>
-    <content type="html"><![CDATA[
-<h5 id="toc_0">Q：好农场是做什么的？</h5>
-
-<p>A：好农场是一套为会员宅配制农场（包括CSA农场）打造的<strong>会员宅配管理系统</strong>，同时也是一个<strong>生态农产品垂直电商平台</strong>。农场可以根据自己的业务范围选择使用好农场来管理会员或在平台上销售农产品；好农场提供网页版的农场管理后台供农场管理会员或零售订单，提供好农场app供会员点菜、充值或消费者购买商品。<br/><br/>
-<br></p>
-
-<h5 id="toc_1">Q：好农场会员宅配管理系统提供了哪些功能？</h5>
-
-<p>A：好农场会员宅配管理系统中，提供了会员套餐设定、停配送管理、会员充值、会员订单处理、销售单据打印及会员相关统计等功能。详细介绍请查看：会员宅配管理系统使用须知<br/><br/>
-<br></p>
-
-<h5 id="toc_2">Q：好农场目前收费吗？</h5>
-
-<p>A：好农场目前不收取任何费用，在支付时还给予手续费补贴，未来可能会有按交易抽成的收费计划。手续费补贴详情查看：好农场支付方式及结算规则<br/>
-<br></p>
-
-<h5 id="toc_3">Q：什么样的农场（商家）可以入驻好农场电商平台？</h5>
-
-<p>A：请查阅：好农场零售功能使用须知<br/>
-<br></p>
-
-<h5 id="toc_4">Q：好农场的账户体系是什么样的？</h5>
-
-<p>A：一个手机号对应一个农场，目前农场后台只支持一个管理员。<br/>
-<br></p>
-
-<h5 id="toc_5">Q：好农场的入驻协议是什么样的？</h5>
-
-<p>A：请查阅：好农场商户入驻协议<br/>
-<br></p>
-
-<h5 id="toc_6">Q：怎么入驻好农场？</h5>
-
-<p>A：请联系好农场客服人员：010-84177966；客服微信：hnc_2015   </p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[好农场入门]]></title>
-    <link href="http://blog.realfarm.cn/14533450694416.html"/>
-    <updated>2016-01-21T10:57:49+08:00</updated>
-    <id>http://blog.realfarm.cn/14533450694416.html</id>
-    <content type="html"><![CDATA[
-<h4 id="toc_0">一、入驻好农场须知</h4>
-
-<ol>
-<li><p>什么是好农场，提供了什么功能？要收费吗？怎么入驻呢？<br/>
-请点击阅读&gt;&gt;【好农场入驻须知】&gt;&gt;【好农场支付方式及结算规则】</p></li>
-<li><p>会员宅配管理系统支持哪些会员套餐类型？我的农场可以使用吗？<br/>
-请点击阅读&gt;&gt;【好农场会员宅配系统使用须知】</p></li>
-<li><p>零售功能有什么用？<br/>
-请点击阅读&gt;&gt;【好农场零售功能使用须知】</p></li>
-</ol>
-
-<h4 id="toc_1">二、设置农场资料及业务</h4>
-
-<ol>
-<li><p>农场已经开通后台了，如何设置我的农场资料?<br/>
-请点击阅读&gt;&gt;【设置农场资料】</p></li>
-<li><p>如何根据我的农场业务来选择是否开通会员宅配功能？<br/>
-请点击阅读&gt;&gt;【开启会员宅配管理功能】</p></li>
-<li><p>如何设置零售功能？<br/>
-请点击阅读&gt;&gt;【零售功能设置】</p></li>
-</ol>
-
-<h4 id="toc_2">三、农场会员宅配</h4>
-
-<ol>
-<li><p>首次使用会员配送的流程是什么样的？如何开始一次配送？<br/>
-请点击阅读&gt;&gt;【会员配送流程】</p></li>
-<li><p>如何设置会员套餐及配送日？如何新增会员？<br/>
-请点击阅读&gt;&gt;【会员套餐设置】&gt;&gt;【会员配送日设置】</p></li>
-<li><p>如何新增会员商品，设置会员可选菜单？ 可选蔬菜和附加商品有什么区别？<br/>
-请点击阅读&gt;&gt;【新增商品】&gt;&gt;【设置会员商品】</p></li>
-<li><p>如何让会员开始点菜？如何开始配送？<br/>
-请点击阅读&gt;&gt;【开始配送计划】&gt;&gt;【会员订单管理】</p></li>
-<li><p>如何打印会员销售单及相关单据？<br/>
-请点击阅读&gt;&gt;【会员单据打印】</p></li>
-</ol>
-
-<h4 id="toc_3">四、零售交易</h4>
-
-<ol>
-<li><p>如何发布零售商品？怎么设置运费？<br/>
-请点击阅读&gt;&gt;【新增商品】&gt;&gt;【设置零售商品】</p></li>
-<li><p>如何管理零售订单？订单怎么发货？<br/>
-请点击阅读&gt;&gt;【零售订单管理】</p></li>
-<li><p>消费者要求退款怎么处理？<br/>
-请点击阅读&gt;&gt;【零售订单退款处理】</p></li>
-</ol>
-
-<h4 id="toc_4">五、农场收入、统计</h4>
-
-<ol>
-<li><p>会员充值和零售订单的钱我在哪里可以看到？怎么取出来？<br/>
-请点击阅读&gt;&gt;【农场收入/提现】</p></li>
-<li><p>怎么统计会员配送的情况或零售销售情况？<br/>
-请点击阅读&gt;&gt;【农场统计功能】</p></li>
-</ol>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[【农场】如何设置农场资料]]></title>
-    <link href="http://blog.realfarm.cn/14533000981522.html"/>
-    <updated>2016-01-20T22:28:18+08:00</updated>
-    <id>http://blog.realfarm.cn/14533000981522.html</id>
-    <content type="html"><![CDATA[
-<h4 id="toc_0">一、功能路径</h4>
-
-<p>好农场管理后台-农场-农场资料</p>
-
-<h4 id="toc_1">二、操作流程</h4>
-
-<ol>
-<li>设置农场基本资料</li>
-<li>添加农场详细介绍</li>
-<li>上传农场相册</li>
-</ol>
-
-<h4 id="toc_2">三、流程介绍</h4>
-
-<h5 id="toc_3">1. 设置农场基本资料</h5>
-
-<ul>
-<li>农场名称、登录账号、农场地址需要通过联系好农场客服人员修改</li>
-<li>主营产品输入框中不能超过15个字</li>
-<li>农场logo和背景图不能超过1M</li>
-</ul>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/31852340.jpg-w619" alt="设置农场基本资料"/></p>
-
-<h5 id="toc_4">2.添加农场详细介绍</h5>
-
-<p>从“基本资料”切换到“农场介绍”标签后进行编辑</p>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/45796067.jpg-w619" alt="添加农场详细介绍"/></p>
-
-<h5 id="toc_5">3.上传农场相册</h5>
-
-<p>从“农场介绍”切换到”农场相册标签进行编辑</p>
-
-<ul>
-<li>点击上传新图片即可上传</li>
-<li>最多上传20张图片，支付jpg,jpeg格式</li>
-</ul>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/18545283.jpg-w619" alt="上传农场相册"/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[【会员】新增会员套餐]]></title>
-    <link href="http://blog.realfarm.cn/14533000500640.html"/>
-    <updated>2016-01-20T22:27:30+08:00</updated>
-    <id>http://blog.realfarm.cn/14533000500640.html</id>
-    <content type="html"><![CDATA[
-<p><em>会员套餐类似于会员与农场制订的一个预付款协议，会员向农场提前预支金额，农场根据该协议为会员提供不同的服务（例如不同的商品价格）</em></p>
-
-<h4 id="toc_0">一、操作路径</h4>
-
-<p>好农场管理后台-会员-会员套餐</p>
-
-<h4 id="toc_1">二、操作流程</h4>
-
-<p>1.设置套餐基本信息<br/>
-2.添加套餐详情</p>
-
-<h4 id="toc_2">三、流程介绍</h4>
-
-<h5 id="toc_3">1.设置套餐基本信息</h5>
-
-<p>可以根据农场的实际业务选择会员每次配送时的单次配送要求，会员通过app点菜时如果未达到该要求，则会给出相应的提示。</p>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/84250657.jpg" alt="设置套餐基本信息"/></p>
-
-<h5 id="toc_4">2.添加套餐详情</h5>
-
-<p>点击“下一步”，添加套餐详细说明</p>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/15259533.jpg" alt="添加套餐详情"/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[【会员】新增会员配送日]]></title>
-    <link href="http://blog.realfarm.cn/14532948728164.html"/>
-    <updated>2016-01-20T21:01:12+08:00</updated>
-    <id>http://blog.realfarm.cn/14532948728164.html</id>
-    <content type="html"><![CDATA[
-<p><em>“会员配送日”是指农场为会员设置的固定配送日，例如农场每周二、周五为会员配送，则会员配送日为周二和周五。</em></p>
-
-<h4 id="toc_0">一、操作路径</h4>
-
-<p>农场管理后台-会员-会员配送日</p>
-
-<h4 id="toc_1">二、操作流程</h4>
-
-<ol>
-<li>新增配送日</li>
-<li>新增配送线路</li>
-</ol>
-
-<h4 id="toc_2">三、流程介绍</h4>
-
-<h5 id="toc_3">1.新增配送日</h5>
-
-<p>农场至少应该有一个配送日，否则无法添加会员和进行配送；</p>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/68654615.jpg-w619" alt="会员配送日"/></p>
-
-<ul>
-<li>配送日可以从星期一至星期日之间选择，不能重复添加；</li>
-<li>预计点菜开始时间：指农场预计在配送日的前几天几点开放点菜（此处的时间仅供会员在app上参考，真正开始点菜需要农场执行“开始点菜”操作）</li>
-<li>预计点菜结束时间：同上</li>
-</ul>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/78532404.jpg-w619" alt="新增配送日"/></p>
-
-<h5 id="toc_4">2.新增配送线路</h5>
-
-<p>配送线路是指该配送日一共分几条线配送，每条线路分别采用什么配送方式配送，一个配送日至少需要添加一条线路。</p>
-
-<p><font color=#0099ff>配送方式有以下三种可选：</font></p>
-
-<pre><code>- 自有物流：即农场自已有司机负责配送，首次添加时需“新增司机”
-- 好农场合作物流：与好农场后台进行了物流接口对接的物流公司
-- 第三方物流：即申通、圆通等快递公司，一条线路只能对应一个快递公司
-</code></pre>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/36437149.jpg-w415" alt=""/></p>
+<p>A：好农场电商平台是一个只做生态农产品的平台，旨在帮助用心做农业的农人获得合理的回报。平台上的每一个农产品都会有对应的生产者及生产承诺，好农场会根据农场做出的承诺随机抽检，消费者也可以对违反承诺的商品进行举报。好农场平台的流量来自于线下的口碑传播及我们在农夫市集及其它场所做的宣传和推广活动。</p>
 
 ]]></content>
   </entry>
