@@ -4,7 +4,7 @@
   <title><![CDATA[好农场-帮助中心]]></title>
   <link href="http://blog.realfarm.cn/atom.xml" rel="self"/>
   <link href="http://blog.realfarm.cn/"/>
-  <updated>2016-01-21T15:48:39+08:00</updated>
+  <updated>2016-01-21T18:56:34+08:00</updated>
   <id>http://blog.realfarm.cn/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -14,308 +14,166 @@
 
   
   <entry>
-    <title type="html"><![CDATA[如何申请提现]]></title>
-    <link href="http://blog.realfarm.cn/14533627963457.html"/>
-    <updated>2016-01-21T15:53:16+08:00</updated>
-    <id>http://blog.realfarm.cn/14533627963457.html</id>
+    <title type="html"><![CDATA[开始配送计划]]></title>
+    <link href="http://blog.realfarm.cn/14533715546173.html"/>
+    <updated>2016-01-21T18:19:14+08:00</updated>
+    <id>http://blog.realfarm.cn/14533715546173.html</id>
     <content type="html"><![CDATA[
 <h4 id="toc_0">一、操作路径</h4>
 
-<p>好农场管理后台-农场-收入/提现</p>
+<p>好农场管理后台-订单-会员订单</p>
 
 <h4 id="toc_1">二、操作流程</h4>
 
 <ol>
-<li>在后台设置提现银行卡</li>
-<li>提交提现申请，等待提现处理</li>
-</ol>
-
-<h4 id="toc_2">三、流程说明</h4>
-
-<ol>
-<li>设置提现银行卡
-点击账户余额旁边的 &quot;提现“ 按钮，如果未设置过银行卡号，则进入设置提现账号。</li>
-</ol>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/42842406.jpg-w619" alt="提现1"/></p>
-
-<ol>
-<li>输入提现金额，点击”提交”就可以了，目前提现是T+2天处理，5个工作日内到账，节假日顺延。</li>
-</ol>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/56425689.jpg-w619" alt="提现2"/></p>
-
-<ol>
-<li>当提现状态为“提现成功”时，即表示提现金额已经到账。</li>
-</ol>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/61185533.jpg-w619" alt="提现3"/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[如何设置零售功能]]></title>
-    <link href="http://blog.realfarm.cn/14533627843778.html"/>
-    <updated>2016-01-21T15:53:04+08:00</updated>
-    <id>http://blog.realfarm.cn/14533627843778.html</id>
-    <content type="html"><![CDATA[
-<h4 id="toc_0">一、操作路径</h4>
-
-<p>好农场管理后台-农场-零售设置</p>
-
-<h4 id="toc_1">二、功能介绍</h4>
-
-<p>起送价：消费者到达设置的金额后才能下单<br/>
-免运费金额：消费者在农场购买的商品达到该金额后可以免运费</p>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/92130957.jpg-w619" alt="零售"/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[如何开启会员宅配功能]]></title>
-    <link href="http://blog.realfarm.cn/14533627736306.html"/>
-    <updated>2016-01-21T15:52:53+08:00</updated>
-    <id>http://blog.realfarm.cn/14533627736306.html</id>
-    <content type="html"><![CDATA[
-<h4 id="toc_0">一、操作路径</h4>
-
-<p>好农场管理后台-农场-会员模块</p>
-
-<h4 id="toc_1">二、操作流程</h4>
-
-<ol>
-<li>开启会员模块</li>
-<li>设置会员自定义功能</li>
+<li>选择配送日</li>
+<li>确认可选蔬菜</li>
+<li>确认附加商品</li>
 </ol>
 
 <h4 id="toc_2">三、流程介绍</h4>
 
-<h5 id="toc_3">1.开启会员模块</h5>
-
-<p>在会员模块的右边点击“开启”按钮即可</p>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/81494564.jpg-w619" alt="开启会员模块"/></p>
-
-<h5 id="toc_4">2.设置会员自定义功能</h5>
-
-<ul>
-<li>会员等级：可以根据会员累积消费情况给会员设置一个等级标签；</li>
-<li>账户关联功能：即主账户、子账户功能，适用于多个会员在同一个账户中消费。详情请查阅：<a href="http://www.realfarm.cn">账户关联功能说明</a></li>
-</ul>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/46912397.jpg-w619" alt="设置会员自定义功能"/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[如何设置农场资料]]></title>
-    <link href="http://blog.realfarm.cn/14533627615952.html"/>
-    <updated>2016-01-21T15:52:41+08:00</updated>
-    <id>http://blog.realfarm.cn/14533627615952.html</id>
-    <content type="html"><![CDATA[
-<h4 id="toc_0">一、功能路径</h4>
-
-<p>好农场管理后台-农场-农场资料</p>
-
-<h4 id="toc_1">二、操作流程</h4>
-
-<ul>
-<li>
-<a href="#toc_0">一、功能路径</a>
-</li>
-<li>
-<a href="#toc_1">二、操作流程</a>
-</li>
-<li>
-<a href="#toc_2">三、流程介绍</a>
-<ul>
-<li>
-<a href="#toc_3">1. 设置农场基本资料</a>
-</li>
-<li>
-<a href="#toc_4">2.添加农场详细介绍</a>
-</li>
-<li>
-<a href="#toc_5">3.上传农场相册</a>
-</li>
-</ul>
-</li>
-</ul>
-
-
 <ol>
-<li>设置农场基本资料</li>
-<li>添加农场详细介绍</li>
-<li>上传农场相册</li>
+<li><p><strong>选择配送日</strong></p>
+
+<p>点击要开始配送的配送日，例如“星期二”，具体的配送日期系统会自动更新。点“开始配送计划”就可以开始本次配送了。</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/38367956.jpg-w619" alt="开始配送"/></p></li>
+<li><p><strong>确认可选蔬菜</strong></p>
+
+<p>确认一下之前在“会员商品“中设置的菜单，在这里可以直接修改库存和限购数量，也可以点右上角的“调整蔬菜”去可选蔬菜页面调整。</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/51446212.jpg-w619" alt="确认菜单"/></p></li>
+<li><p><strong>确认附加商品</strong></p>
+
+<p>执行“下一步”后会确认一下原先设置的附加商品，同样也可以调整。</p>
+
+<blockquote>
+<p><strong>会员套餐订购数量：</strong>指会员在订购套餐时设置的“套餐附加商品”，如果有会员在套餐中订购了某一商品，则在“确认生成”后，系统会自动给该会员分配这个商品（除非库存不足）。</p>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/11172871.jpg-w619" alt="确认附加商品"/></p>
+
+<p>确认生成后，系统会给所有该配送日期没设置停配的会员生成一个配送订单。</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/40142031.jpg-w619" alt=""/></p>
+
+<blockquote>
+<p>提示:<br/>
+1. 在”开始点菜“之前，点击”取消本次配送“可以取消已生成的配送计划。<br/>
+2. 点击“未配送会员”，可以查看本次配送有哪些会员设置了停配，并在弹出窗中为会员<strong>恢复本次配送</strong>和创建订单。</p>
+</blockquote></li>
 </ol>
 
-<h4 id="toc_2">三、流程介绍</h4>
-
-<h5 id="toc_3">1. 设置农场基本资料</h5>
-
-<ul>
-<li>农场名称、登录账号、农场地址需要通过联系好农场客服人员修改</li>
-<li>主营产品输入框中不能超过15个字</li>
-<li>农场logo和背景图不能超过1M</li>
-</ul>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/31852340.jpg-w619" alt="设置农场基本资料"/></p>
-
-<h5 id="toc_4">2.添加农场详细介绍</h5>
-
-<p>从“基本资料”切换到“农场介绍”标签后进行编辑</p>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/45796067.jpg-w619" alt="添加农场详细介绍"/></p>
-
-<h5 id="toc_5">3.上传农场相册</h5>
-
-<p>从“农场介绍”切换到”农场相册标签进行编辑</p>
-
-<ul>
-<li>点击上传新图片即可上传</li>
-<li>最多上传20张图片，支付jpg,jpeg格式</li>
-</ul>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/18545283.jpg-w619" alt="上传农场相册"/></p>
-
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[如何新增会员]]></title>
-    <link href="http://blog.realfarm.cn/14533626873220.html"/>
-    <updated>2016-01-21T15:51:27+08:00</updated>
-    <id>http://blog.realfarm.cn/14533626873220.html</id>
+    <title type="html"><![CDATA[开始/结束点菜]]></title>
+    <link href="http://blog.realfarm.cn/14533737479743.html"/>
+    <updated>2016-01-21T18:55:47+08:00</updated>
+    <id>http://blog.realfarm.cn/14533737479743.html</id>
     <content type="html"><![CDATA[
-<p><em>新增会员有两种途径：一种是新增单个会员，一种是批量导入会员。</em></p>
-
-<h4 id="toc_0">操作路径</h4>
-
-<p>好农场管理后台-会员-配送会员</p>
-
-<h4 id="toc_1">一、新增单个会员</h4>
+<h4 id="toc_0">一、开始点菜</h4>
 
 <ol>
-<li><p>在左上角点“新增会员”按钮</p>
+<li><p>配送计划生成后，点“开始点菜”就可以让会员在“好农场app”上点菜了。</p>
 
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/54005800.jpg-w619" alt="新增会员"/></p></li>
-<li><p>添加会员基本信息</p>
+<p>关于好农场app的使用介绍请查阅：<a href="">会员如何使用好农场app?</a></p>
 
-<blockquote>
-<p>可透支额度（元）：指套餐余额消费完后还可以透支消费的金额</p>
-</blockquote>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/66904503.jpg-w619" alt=""/></p></li>
-<li><p>设置套餐信息</p>
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/74924968.jpg-w619" alt="开始点菜"/></p></li>
+<li><p>开始点菜后，当前配送日的会员订单状态会变为”用户点菜“。如果会员还未点菜，则会员订单的<strong>点菜状态</strong>为<em>未点菜</em>。</p>
 
 <blockquote>
-<p>单次配送要求：随套餐的要求而变化<br/>
-配送日：一个会员至少对应一个配送日和一条配送线路<br/>
-套餐附加商品：指每次点菜前，如果该附加商品有库存，系统会自动把该商品分配到会员的购物车里。</p>
+<ul>
+<li><p>如果会员通过<em>好农场app</em>点菜，则会员订单的<strong>点菜状态</strong>为<em>app点菜</em>；</p></li>
+<li><p>农场可以通过 <em>修改订单</em> 在后台给会员点菜，在修改订单页勾选“已点菜”后，会员订单的<strong>点菜状态</strong>为<em>后台点菜</em>；</p></li>
+<li><p>点击”展开高级搜索“可以通过点菜状态来筛选订单。</p></li>
+</ul>
 </blockquote>
 
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/86894011.jpg-w619" alt=""/></p></li>
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/47819603.jpg-w619" alt="开始点菜2"/></p>
+
+<p><br></p></li>
 </ol>
 
-<h4 id="toc_2">二、批量导入会员</h4>
-
-<p>在“配送会员”页左上角点“导入”，按导入指引和模板提醒导入即可</p>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/93392312.jpg-w619" alt="导入会员"/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[新增会员套餐]]></title>
-    <link href="http://blog.realfarm.cn/14533626779826.html"/>
-    <updated>2016-01-21T15:51:17+08:00</updated>
-    <id>http://blog.realfarm.cn/14533626779826.html</id>
-    <content type="html"><![CDATA[
-<p><em>会员套餐类似于会员与农场制订的一个预付款协议，会员向农场提前预支金额，农场根据该协议为会员提供不同的服务（例如不同的商品价格）</em></p>
-
-<h4 id="toc_0">一、操作路径</h4>
-
-<p>好农场管理后台-会员-会员套餐</p>
-
-<h4 id="toc_1">二、操作流程</h4>
-
-<p>1.设置套餐基本信息<br/>
-2.添加套餐详情</p>
-
-<h4 id="toc_2">三、流程介绍</h4>
-
-<h5 id="toc_3">1.设置套餐基本信息</h5>
-
-<p>可以根据农场的实际业务选择会员每次配送时的单次配送要求，会员通过app点菜时如果未达到该要求，则会给出相应的提示。</p>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/84250657.jpg" alt="设置套餐基本信息"/></p>
-
-<h5 id="toc_4">2.添加套餐详情</h5>
-
-<p>点击“下一步”，添加套餐详细说明</p>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/15259533.jpg" alt="添加套餐详情"/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[新增会员配送日]]></title>
-    <link href="http://blog.realfarm.cn/14533626642913.html"/>
-    <updated>2016-01-21T15:51:04+08:00</updated>
-    <id>http://blog.realfarm.cn/14533626642913.html</id>
-    <content type="html"><![CDATA[
-<p><em>“会员配送日”是指农场为会员设置的固定配送日，例如农场每周二、周五为会员配送，则会员配送日为周二和周五。</em></p>
-
-<h4 id="toc_0">一、操作路径</h4>
-
-<p>农场管理后台-会员-会员配送日</p>
-
-<h4 id="toc_1">二、操作流程</h4>
+<h4 id="toc_1">二、结束点菜</h4>
 
 <ol>
-<li>新增配送日</li>
-<li>新增配送线路</li>
+<li><p>点击”结束点菜“后，订单状态为变为”等待配送“。这时候会员就不能通过好农场app点菜了，但是后台仍然可以修改订单。</p>
+
+<blockquote>
+<p>提示： </p>
+
+<ul>
+<li><p>一旦结束点菜，就不可以再恢复点菜了。</p></li>
+<li><p>如果在点菜期间或点菜结束后，有其它配送日的会员想在当前配送日配送，可以点”新增订单“来增加一个临时订单，临时订单暂时不支持app点菜。</p></li>
+</ul>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/48503251.jpg-w619" alt="结束点菜"/></p></li>
+<li><p>结束点菜后，可以”打印备货总单“来统计本次配送的备货清单。切换到<strong>线路</strong>标签后，可以打印”配菜单“、”会员销售单“等。</p>
+
+<blockquote>
+<p>例：下图从 <strong>“全部”</strong> 标签切换到了线路 <strong>“顺丰速运”</strong></p>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/52321369.jpg-w619" alt="按线路查看订单"/></p>
+
+<p>“会员销售单”将根据 <em>线路的配送顺序</em> 批量打印，可作为配菜单使用，建议使用A5纸张打印。</p></li>
 </ol>
 
-<h4 id="toc_2">三、流程介绍</h4>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[开始配送/配送完成]]></title>
+    <link href="http://blog.realfarm.cn/14533865774893.html"/>
+    <updated>2016-01-21T22:29:37+08:00</updated>
+    <id>http://blog.realfarm.cn/14533865774893.html</id>
+    <content type="html"><![CDATA[
+<h4 id="toc_0">一、开始配送</h4>
 
-<h5 id="toc_3">1.新增配送日</h5>
-
-<p>农场至少应该有一个配送日，否则无法添加会员和进行配送；</p>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/68654615.jpg-w619" alt="会员配送日"/></p>
-
-<blockquote>
-<ul>
-<li>配送日可以从星期一至星期日之间选择，不能重复添加；</li>
-<li>预计点菜开始时间：指农场预计在配送日的前几天几点开放点菜（此处的时间仅供会员在app上参考，真正开始点菜需要农场执行“开始点菜”操作）</li>
-<li>预计点菜结束时间：同上</li>
-</ul>
-</blockquote>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/78532404.jpg-w619" alt="新增配送日"/></p>
-
-<h5 id="toc_4">2.新增配送线路</h5>
-
-<p>配送线路是指该配送日一共分几条线配送，每条线路分别采用什么配送方式配送，一个配送日至少需要添加一条线路。</p>
-
-<p><font color=#0099ff>配送方式有以下三种可选：</font></p>
+<ol>
+<li><p>会员的蔬菜都装箱后，需根据新增会员配送日时设置的配送线路类型在 <strong>线路名</strong> 标签页内 “打印送货单”或“设置运单号”。</p>
 
 <blockquote>
 <ul>
-<li>自有物流：即农场自已有司机负责配送，首次添加时需“新增司机”</li>
-<li>好农场合作物流：与好农场后台进行了物流接口对接的物流公司</li>
-<li>第三方物流：即申通、圆通等快递公司，一条线路只能对应一个快递公司</li>
+<li><p>如果线路类型为 “<em>自有物流</em> ”，则直接“打印送货单”即可,可修改“<strong>配送顺序</strong>”来调整送货单的订单顺序；</p></li>
+<li><p>如果线路类型为 “<em>好农场合作物流</em> ”，则无需打印操作；</p></li>
+<li><p>如果线路类型为 “<em>第三方物流</em> ”，则需“设置运单号” ，否则会员无法通过好农场app查询物流信息。（可根据需要打印送货单）</p></li>
 </ul>
 </blockquote>
 
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/36437149.jpg-w415" alt=""/></p>
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/34226931.jpg-w619" alt=""/></p></li>
+<li><p>点“开始配送”按钮后，所有会员订单状态将变为“正在配送”。</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/69978286.jpg-w619" alt=""/></p></li>
+</ol>
+
+<p><br></p>
+
+<h4 id="toc_1">二、配送完成</h4>
+
+<ol>
+<li><p>点“配送完成”后，系统将对本次配送的会员从套餐余额里进行实际的扣款。</p>
+
+<blockquote>
+<ul>
+<li><p>如果配送中途出现问题，可以点订单里的“配送失败”，则本次配送不扣款。</p></li>
+<li><p>如果农场没有点击配送完成，则系统会在 <strong>配送日期</strong> 结束的这一天，自动将订单状态改为“配送完成”，并完成扣款。</p></li>
+</ul>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/31079784.jpg-w619" alt="配送完成"/></p></li>
+<li><p>扣款后，如果因商品质量问题需要退款，可以点订单里的“退款”。</p>
+
+<blockquote>
+<p>配送日期（<code>例图中的2016年1月26日</code>）结束后，系统会自动将订单归档到“全部会员订单”中，农场可按配送日期查询。</p>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/59462410.jpg" alt="配送完成2"/></p></li>
+</ol>
 
 ]]></content>
   </entry>
@@ -387,25 +245,397 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[新增商品]]></title>
+    <link href="http://blog.realfarm.cn/14533642434938.html"/>
+    <updated>2016-01-21T16:17:23+08:00</updated>
+    <id>http://blog.realfarm.cn/14533642434938.html</id>
+    <content type="html"><![CDATA[
+<h4 id="toc_0">一、操作路径</h4>
+
+<p>好农场管理后台-商品-商品库</p>
+
+<h4 id="toc_1">二、操作流程</h4>
+
+<ol>
+<li>设置商品类目</li>
+<li>设置商品基本信息</li>
+<li>添加商品详情</li>
+</ol>
+
+<h4 id="toc_2">三、流程介绍</h4>
+
+<ol>
+<li><p>设置商品类目</p>
+
+<p>在商品库中点”新增商品“，进入商品类目选择页，请根据要添加的商品选择适合的分类。<br/>
+<img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/41302433.jpg-w619" alt=""/></p></li>
+<li><p>设置商品基本信息</p>
+
+<ul>
+<li><p>在设置商品基本信息时，可以对商品进行分组，便于按分组管理商品，查阅：<a href="http://">商品分组功能</a></p></li>
+<li><p>在新增了会员套餐后，可以对商品<strong>设置套餐价</strong>，每一个套餐可以对应一种价格。</p></li>
+<li><p>可以给商品设置运费模板，运费模板介绍请查阅：<a href="http://">运费模板功能</a> ， 运费模板暂时只对零售商品生效。</p></li>
+</ul>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/10077936.jpg-w619" alt=""/></p></li>
+<li><p>编辑商品详情<br/>
+可以通过编辑框编辑商品的图文介绍信息。</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/9868713.jpg-w619" alt=""/></p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[设置会员商品]]></title>
+    <link href="http://blog.realfarm.cn/14533672549229.html"/>
+    <updated>2016-01-21T17:07:34+08:00</updated>
+    <id>http://blog.realfarm.cn/14533672549229.html</id>
+    <content type="html"><![CDATA[
+<h4 id="toc_0">一、操作路径</h4>
+
+<p>好农场管理后台-商品-会员商品</p>
+
+<h4 id="toc_1">二、操作流程</h4>
+
+<ol>
+<li>上架可选蔬菜</li>
+<li>上架附加商品</li>
+</ol>
+
+<h4 id="toc_2">三、流程介绍</h4>
+
+<ol>
+<li><p><strong>上架可选蔬菜</strong></p>
+
+<p>在会员商品下选择”可选蔬菜“，可以通过”上架“或”复制上次菜单“的方式上架可选蔬菜。<br/>
+<strong>复制上一次菜单：</strong>点击后可以将上一次配送时上架的蔬菜直接复制到当前配送日。</p>
+
+<blockquote>
+<p>提示：<br/>
+1. 在上架蔬菜前应先切换到要执行配送的配送日，如下图选中的是“星期二”。<br/>
+2. 限购数量为0时表示不限购。</p>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/77544474.jpg-w619" alt="可选蔬菜"/></p>
+
+<blockquote>
+<p>在上架蔬菜的弹出框中，<font color = #0099ff>只能选择新增商品时商品类目为蔬菜</font> 的商品。</p>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/68351747.jpg-w415" alt=""/></p></li>
+<li><p><strong>上架附加商品</strong></p>
+
+<p>附加商品和可选蔬菜的区别在于：</p>
+
+<blockquote>
+<p>附加商品里的商品和库存对于每个配送日来说都是可选的，而可选蔬菜则是一个配送日对应一份菜单。</p>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/34118186.jpg-w619" alt=""/></p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[设置农场资料]]></title>
+    <link href="http://blog.realfarm.cn/14533627615952.html"/>
+    <updated>2016-01-21T15:52:41+08:00</updated>
+    <id>http://blog.realfarm.cn/14533627615952.html</id>
+    <content type="html"><![CDATA[
+<h4 id="toc_0">一、功能路径</h4>
+
+<p>好农场管理后台-农场-农场资料</p>
+
+<h4 id="toc_1">二、操作流程</h4>
+
+<ol>
+<li>设置农场基本资料</li>
+<li>添加农场详细介绍</li>
+<li>上传农场相册</li>
+</ol>
+
+<h4 id="toc_2">三、流程介绍</h4>
+
+<ol>
+<li><p>设置农场基本资料</p>
+
+<ul>
+<li>农场名称、登录账号、农场地址需要通过联系好农场客服人员修改</li>
+<li>主营产品输入框中不能超过15个字</li>
+<li>农场logo和背景图不能超过1M</li>
+</ul>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/31852340.jpg-w619" alt="设置农场基本资料"/></p></li>
+<li><p>添加农场详细介绍<br/>
+从“基本资料”切换到“农场介绍”标签后进行编辑</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/45796067.jpg-w619" alt="添加农场详细介绍"/></p></li>
+<li><p>上传农场相册<br/>
+从“农场介绍”切换到”农场相册标签进行编辑</p>
+
+<ul>
+<li>点击上传新图片即可上传</li>
+<li>最多上传20张图片，支付jpg,jpeg格式</li>
+</ul>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/18545283.jpg-w619" alt="上传农场相册"/></p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[如何申请提现]]></title>
+    <link href="http://blog.realfarm.cn/14533627963457.html"/>
+    <updated>2016-01-21T15:53:16+08:00</updated>
+    <id>http://blog.realfarm.cn/14533627963457.html</id>
+    <content type="html"><![CDATA[
+<h4 id="toc_0">一、操作路径</h4>
+
+<p>好农场管理后台-农场-收入/提现</p>
+
+<h4 id="toc_1">二、操作流程</h4>
+
+<ol>
+<li>在后台设置提现银行卡</li>
+<li>提交提现申请，等待提现处理</li>
+</ol>
+
+<h4 id="toc_2">三、流程说明</h4>
+
+<ol>
+<li><p>设置提现银行卡<br/>
+点击账户余额旁边的 &quot;提现“ 按钮，如果未设置过银行卡号，则进入设置提现账号。</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/42842406.jpg-w619" alt="提现1"/></p></li>
+<li><p>输入提现金额，点击”提交”就可以了，目前提现是T+2天处理，5个工作日内到账，节假日顺延。</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/56425689.jpg-w619" alt="提现2"/></p></li>
+<li><p>当提现状态为“提现成功”时，即表示提现金额已经到账。</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/61185533.jpg-w619" alt="提现3"/></p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[如何设置零售功能]]></title>
+    <link href="http://blog.realfarm.cn/14533627843778.html"/>
+    <updated>2016-01-21T15:53:04+08:00</updated>
+    <id>http://blog.realfarm.cn/14533627843778.html</id>
+    <content type="html"><![CDATA[
+<h4 id="toc_0">一、操作路径</h4>
+
+<p>好农场管理后台-农场-零售设置</p>
+
+<h4 id="toc_1">二、功能介绍</h4>
+
+<p>起送价：消费者到达设置的金额后才能下单<br/>
+免运费金额：消费者在农场购买的商品达到该金额后可以免运费</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/92130957.jpg-w619" alt="零售"/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[如何开启会员宅配功能]]></title>
+    <link href="http://blog.realfarm.cn/14533627736306.html"/>
+    <updated>2016-01-21T15:52:53+08:00</updated>
+    <id>http://blog.realfarm.cn/14533627736306.html</id>
+    <content type="html"><![CDATA[
+<h4 id="toc_0">一、操作路径</h4>
+
+<p>好农场管理后台-农场-会员模块</p>
+
+<h4 id="toc_1">二、操作流程</h4>
+
+<ol>
+<li>开启会员模块</li>
+<li>设置会员自定义功能</li>
+</ol>
+
+<h4 id="toc_2">三、流程介绍</h4>
+
+<ol>
+<li><p><strong>开启会员模块</strong><br/>
+在会员模块的右边点击“开启”按钮即可。同理，如果你不想使用会员功能，在这里停用即可。</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/81494564.jpg-w619" alt="开启会员模块"/></p></li>
+<li><p><strong>设置会员自定义功能</strong></p>
+
+<ul>
+<li>会员等级：可以根据会员累积消费情况给会员设置一个等级标签；</li>
+<li>账户关联功能：即主账户、子账户功能，适用于多个会员在同一个账户中消费。详情请查阅：<a href="http://www.realfarm.cn">账户关联功能说明</a></li>
+</ul>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/46912397.jpg-w619" alt="设置会员自定义功能"/></p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[新增会员配送日]]></title>
+    <link href="http://blog.realfarm.cn/14533626642913.html"/>
+    <updated>2016-01-21T15:51:04+08:00</updated>
+    <id>http://blog.realfarm.cn/14533626642913.html</id>
+    <content type="html"><![CDATA[
+<p><em>“会员配送日”是指农场为会员设置的固定配送日，例如农场每周二、周五为会员配送，则会员配送日为周二和周五。</em></p>
+
+<h4 id="toc_0">一、操作路径</h4>
+
+<p>农场管理后台-会员-会员配送日</p>
+
+<h4 id="toc_1">二、操作流程</h4>
+
+<ol>
+<li>新增配送日</li>
+<li>新增配送线路</li>
+</ol>
+
+<h4 id="toc_2">三、流程介绍</h4>
+
+<ol>
+<li><p><strong>新增配送日</strong><br/>
+农场至少应该有一个配送日，否则无法添加会员和进行配送；</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/68654615.jpg-w619" alt="会员配送日"/></p>
+
+<blockquote>
+<ul>
+<li>配送日可以从星期一至星期日之间选择，不能重复添加；</li>
+<li>预计点菜开始时间：指农场预计在配送日的前几天几点开放点菜（此处的时间仅供会员在app上参考，真正开始点菜需要农场执行“开始点菜”操作）</li>
+<li>预计点菜结束时间：同上</li>
+</ul>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/78532404.jpg-w619" alt="新增配送日"/></p></li>
+<li><p><strong>新增配送线路</strong></p>
+
+<p>配送线路是指该配送日一共分几条线配送，每条线路分别采用什么配送方式配送，一个配送日至少需要添加一条线路。</p>
+
+<p><font color=#0099ff>配送方式有以下三种可选：</font></p>
+
+<blockquote>
+<ul>
+<li>自有物流：即农场自已有司机负责配送，首次添加时需“新增司机”</li>
+<li>好农场合作物流：与好农场后台进行了物流接口对接的物流公司</li>
+<li>第三方物流：即申通、圆通等快递公司，一条线路只能对应一个快递公司</li>
+</ul>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/36437149.jpg-w415" alt=""/></p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[新增会员套餐]]></title>
+    <link href="http://blog.realfarm.cn/14533626779826.html"/>
+    <updated>2016-01-21T15:51:17+08:00</updated>
+    <id>http://blog.realfarm.cn/14533626779826.html</id>
+    <content type="html"><![CDATA[
+<p><em>会员套餐类似于会员与农场制订的一个预付款协议，会员向农场提前预支金额，农场根据该协议为会员提供不同的服务（例如不同的商品价格）</em></p>
+
+<h4 id="toc_0">一、操作路径</h4>
+
+<p>好农场管理后台-会员-会员套餐</p>
+
+<h4 id="toc_1">二、操作流程</h4>
+
+<ol>
+<li>设置套餐基本信息</li>
+<li>添加套餐详情</li>
+</ol>
+
+<h4 id="toc_2">三、流程介绍</h4>
+
+<ol>
+<li><p><strong>设置套餐基本信息</strong><br/>
+可以根据农场的实际业务选择会员每次配送时的单次配送要求，会员通过app点菜时如果未达到该要求，则会给出相应的提示。</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/84250657.jpg-w619" alt="设置套餐基本信息"/></p></li>
+<li><p><strong>添加套餐详情</strong><br/>
+点击“下一步”，添加套餐详细说明</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/15259533.jpg-w619" alt="添加套餐详情"/></p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[新增会员]]></title>
+    <link href="http://blog.realfarm.cn/14533626873220.html"/>
+    <updated>2016-01-21T15:51:27+08:00</updated>
+    <id>http://blog.realfarm.cn/14533626873220.html</id>
+    <content type="html"><![CDATA[
+<p><em>新增会员有两种途径：一种是新增单个会员，一种是批量导入会员。</em></p>
+
+<h4 id="toc_0">一、操作路径</h4>
+
+<p>好农场管理后台-会员-配送会员</p>
+
+<h4 id="toc_1">二、新增单个会员</h4>
+
+<ol>
+<li><p><strong>在左上角点“新增会员”按钮</strong></p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/54005800.jpg-w619" alt="新增会员"/></p></li>
+<li><p><strong>添加会员基本信息</strong></p>
+
+<blockquote>
+<p>可透支额度（元）：指套餐余额消费完后还可以透支消费的金额</p>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/66904503.jpg-w619" alt=""/></p></li>
+<li><p><strong>设置套餐信息</strong></p>
+
+<blockquote>
+<p><strong>单次配送要求</strong>：随套餐的要求而变化<br/>
+<strong>配送日</strong>：一个会员至少对应一个配送日和一条配送线路，可设置多个配送日。<br/>
+<strong>套餐附加商品</strong>：指每次点菜前，如果该附加商品有库存，系统会自动把该商品分配到会员的购物车里。</p>
+</blockquote>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/86894011.jpg-w619" alt=""/></p></li>
+</ol>
+
+<h4 id="toc_2">三、批量导入会员</h4>
+
+<p>在“配送会员”页左上角点“导入”，按导入指引和模板提醒导入即可</p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/93392312.jpg-w619" alt="导入会员"/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[【教程】会员配送流程]]></title>
     <link href="http://blog.realfarm.cn/14533609336427.html"/>
     <updated>2016-01-21T15:22:13+08:00</updated>
     <id>http://blog.realfarm.cn/14533609336427.html</id>
     <content type="html"><![CDATA[
-<p><em>如果你是第一次使用我们的系统，不知道该如何开始操作，那么你只需要按照下面的流程一步一步操作，就可以完成一次会员配送了。</em></p>
+<p><em>如果你是第一次使用好农场来进行会员配送，那么你只需要按照下面的流程一步步操作，就可以完成一次会员配送了。</em></p>
 
 <h4 id="toc_0">一、操作流程</h4>
 
 <ol>
 <li>新增会员</li>
 <li>设置会员菜单</li>
-<li>开始点菜</li>
+<li>会员点菜</li>
 <li>开始配送</li>
 </ol>
 
 <h4 id="toc_1">二、流程介绍</h4>
 
-<h5 id="toc_2">1.新增会员</h5>
+<ol>
+<li><p><strong>新增会员</strong></p>
 
 <p>新增会员之前，需要先新增会员配送日和会员套餐；</p>
 
@@ -418,11 +648,9 @@
 
 <ul>
 <li>点击查看：<a href="http://">新增会员</a></li>
-</ul>
-
-<h5 id="toc_3">2.设置会员菜单</h5>
-
-<p>设置会员菜单之前，需要先在商品库中新增商品（蔬菜或附加商品）</p>
+</ul></li>
+<li><p><strong>设置会员菜单</strong><br/>
+设置会员菜单之前，需要先在商品库中新增商品（蔬菜或附加商品）</p>
 
 <ul>
 <li>点击查看：<a href="http://">新增商品</a></li>
@@ -431,13 +659,10 @@
 <p>新增商品后，可以设置会员可选菜单和附加商品</p>
 
 <ul>
-<li>点击查看：<a href="http://">设置可选蔬菜</a></li>
-<li>点击查看：<a href="http://">设置附加商品</a></li>
-</ul>
-
-<h5 id="toc_4">3.开始点菜</h5>
-
-<p>不管农场是否允许会员点菜，农场需要先找到对应的配送日，并“开始配送计划”</p>
+<li>点击查看：<a href="">设置会员商品</a></li>
+</ul></li>
+<li><p><strong>会员点菜</strong><br/>
+不管农场是否允许会员点菜，农场需要先找到对应的配送日，并“开始配送计划”</p>
 
 <ul>
 <li>点击查看：<a href="http://">开始配送计划</a></li>
@@ -446,30 +671,64 @@
 <p>配送计划生成后，农场就可以开放点菜了，农场开放点菜后，会员的app就会收到点菜提醒。</p>
 
 <ul>
-<li>点击查看：<a href="http://">开始点菜</a></li>
-</ul>
+<li>点击查看：<a href="">开始/结束点菜</a></li>
+</ul></li>
+<li><p><strong>开始配送</strong></p>
 
-<h5 id="toc_5">4.开始配送</h5>
-
-<p>开始配送前，农场需要先结束点菜，否则不能打印送货单或销售单</p>
-
-<ul>
-<li>点击查看：<a href="http://">结束点菜</a></li>
-</ul>
-
-<p>结束点菜后，就可以执行开始配送了</p>
+<p>结束点菜后，就可以打印送货单或销售单并开始配送了</p>
 
 <ul>
 <li>点击查看：<a href="http://">开始配送</a></li>
 </ul>
 
-<p>配送日完成后，系统会将该配送日的订单批量处理为“配送完成”，整个配送过程就结束了，农场可以到“全部会员订单”中查询历史订单。</p>
+<p>配送完成后，系统会将该配送日的订单批量处理为“配送完成”，整个配送过程就结束了，农场可以到“全部会员订单”中查询历史订单。</p></li>
+</ol>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[好农场入驻需知]]></title>
+    <title type="html"><![CDATA[好农场app 常见问题]]></title>
+    <link href="http://blog.realfarm.cn/14533676947273.html"/>
+    <updated>2016-01-21T17:14:54+08:00</updated>
+    <id>http://blog.realfarm.cn/14533676947273.html</id>
+    <content type="html"><![CDATA[
+<h5 id="toc_0">Q：好农场app下载地址？</h5>
+
+<p>A:下载地址: <a href="http://t.cn/RypMGNI">http://t.cn/RypMGNI</a> ，苹果和安卓手机都可以通过这个链接下载。 </p>
+
+<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/17418674.jpg" alt="二维码"/></p>
+
+<p><br></p>
+
+<h5 id="toc_1">Q:苹果手机打开好农场app闪退?(系统版本 IOS6.0)</h5>
+
+<p>A:很抱歉，目前我们的软件只兼容IOS7.0以上的苹果系统，您可以对手机系统进行升级。</p>
+
+<p><br></p>
+
+<h5 id="toc_2">Q：会员通过app点菜或停配后后台是否有通知</h5>
+
+<p>A:目前app有开始点菜提醒以及点菜快要结束时的提醒，同时会员在app上充值后，农场主的手机也会收到充值短信提醒。暂时没有停配提醒。 </p>
+
+<p><br></p>
+
+<h5 id="toc_3">Q：我应该如何邀请会员下载app点菜？</h5>
+
+<p>A:我们提供了以下短信或微信邀请模板，您可以稍做修改后发送给会员。 </p>
+
+<blockquote>
+<p>【有家农场】尊敬的会员,农场开通会员点菜服务了，现正式邀请您参与体验！<br/>
+请安装“好农场” 手机app（下载地址: <code>http://t.cn/RypMGNI</code> ），并使用手机号码 186XXXXXXX 来注册，以便您的账户与农场后台关联。<br/>
+注册成功后即可在app上进行点菜、停配等操作。<br/>
+如有疑问，请联系客服 010-6666xxxx，祝您使用愉快！ </p>
+</blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[好农场入驻须知]]></title>
     <link href="http://blog.realfarm.cn/14533452245479.html"/>
     <updated>2016-01-21T11:00:24+08:00</updated>
     <id>http://blog.realfarm.cn/14533452245479.html</id>
@@ -580,11 +839,13 @@
 
 <p>简单来说就是：</p>
 
+<blockquote>
 <ol>
 <li>会员是否按预付款购买储值套餐</li>
 <li>会员是否按固定配送日每周配送</li>
 <li>会员结算是否从储值卡中扣款结算</li>
 </ol>
+</blockquote>
 
 <p>如果你的农场业务符合上述条件，欢迎联系我们来帮助你使用。<br/>
 <br></p>
