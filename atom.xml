@@ -4,7 +4,7 @@
   <title><![CDATA[好农场-帮助中心]]></title>
   <link href="http://blog.realfarm.cn/atom.xml" rel="self"/>
   <link href="http://blog.realfarm.cn/"/>
-  <updated>2016-02-16T17:02:11+08:00</updated>
+  <updated>2016-04-11T09:52:36+08:00</updated>
   <id>http://blog.realfarm.cn/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://www.mweb.im">MWeb</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2016.4.6农场管理系统更新说明]]></title>
+    <link href="http://blog.realfarm.cn/14602595208244.html"/>
+    <updated>2016-04-10T11:38:40+08:00</updated>
+    <id>http://blog.realfarm.cn/14602595208244.html</id>
+    <content type="html"><![CDATA[
+<h4 id="toc_0">一、本次升级的主要内容：</h4>
+
+<ol>
+<li><p>对后台的整体界面进行了调整，使页面更清晰简洁！</p></li>
+<li><p>增加“通知”功能，会员充值、新会员加入、新的零售订单都可以收到通知了;<br/>
+<img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-4-11/66818140.jpg-w619" alt=""/></p></li>
+<li><p>“农场”导航下新增了“整体概况”页，并将“新手指导”进行了完善。<br/>
+<img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-4-11/30074466.jpg-w619" alt=""/></p></li>
+<li><p>增加在线客服功能。</p></li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[2016年2月17日农场管理后台更新]]></title>
@@ -952,57 +972,6 @@
 注册成功后即可在app上进行点菜、停配等操作。<br/>
 如有疑问，请联系客服 010-6666xxxx，祝您使用愉快！ </p>
 </blockquote>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[好农场支付方式及结算规则]]></title>
-    <link href="http://blog.realfarm.cn/14533466770692.html"/>
-    <updated>2016-01-21T11:24:37+08:00</updated>
-    <id>http://blog.realfarm.cn/14533466770692.html</id>
-    <content type="html"><![CDATA[
-<h4 id="toc_0">一、支付方式</h4>
-
-<p>好农场目前支持以下两种在线支付方式：</p>
-
-<ol>
-<li>微信支付</li>
-<li><p>支付宝支付</p>
-
-<p>农场会员充值或消费者购买商品时，可以选择以上方式向农场支付，支付金额统一进入好农场结算账户，农场通过管理后台发起提现申请与好农场结算款项。好农场将给农场补贴支付时产生的手续费用0.6%以及提现时的手续费用。</p>
-
-<blockquote>
-<p>说明：目前微信支付和支付宝支付的商户结算费率均为 0.6%<br/>
-点击查看： <a href="http://kf.qq.com/faq/140225MveaUz1504092YFjeM.html">微信支付结算费率</a> ，  <a href="https://b.alipay.com/order/productDetail.htm?productId=2015110218010538&amp;tabId=3#ps-tabinfo-hash">支付宝支付结算费率</a></p>
-</blockquote>
-
-<p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/93905717.jpg-w415" alt=""/></p></li>
-</ol>
-
-<p><em>（注：农场会员宅配系统中的会员订单均只能使用会员的储值余额支付，余额不足时需进行充值，与上述的支付方式为不同类型）</em><br/>
-<br></p>
-
-<h4 id="toc_1">二、会员充值或买家下单后，资金如何结算？如何提现？</h4>
-
-<ol>
-<li>会员充值成功后，在“农场”——“收入/提现”里会产生一条充值记录，充值的金额将实时进入农场的账户余额中，农场可以随时申请提现。</li>
-<li><p>买家购买零售商品并支付后，以下<strong>两种情况满足任意一种</strong>结算金额可以入账提现：</p>
-
-<ul>
-<li><p>农场在订单发货T+7天后交易金额将结算入账可提现（从发货当天开始计算，7天结算精确到天）</p>
-
-<blockquote>
-<p>例：交易订单在7月17号发货，则7月24号交易金额结算入账。</p>
-</blockquote></li>
-<li><p>农场在订单发货后，买家在好农场app上进行了“确认收货”操作，交易金额将结算入账可提现。</p>
-
-<blockquote>
-<p>例：交易订单在7月17号发货，7月20号买家确认收货，则交易金额结算入帐。</p>
-</blockquote></li>
-</ul></li>
-<li><p>提现前农场需添加结算账户，具体查看：如何进行提现操作？ ；提现周期为T+2个工作日，具体到账时间以银行的处理时间为准。</p></li>
-</ol>
 
 ]]></content>
   </entry>
